@@ -63,6 +63,8 @@ npx bmad-method install --yes \
 
 [See all installation options](https://docs.bmad-method.org/how-to/non-interactive-installation/)
 
+**Using Claude Cowork?** The npx installer doesn't reach Cowork's sandboxed VM. Use the plugin marketplace instead — register the marketplace then install the plugins from it. See [How to Install BMad in Claude Cowork](https://docs.bmad-method.org/how-to/install-claude-cowork/) for the full walkthrough.
+
 > **Not sure what to do?** Ask `bmad-help` — it tells you exactly what's next and what's optional. You can also ask questions like `bmad-help I just finished the architecture, what do I do next?`
 
 ## Modules
